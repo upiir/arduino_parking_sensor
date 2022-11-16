@@ -1,6 +1,8 @@
 # Arduino Parking Sensor
 Simple parking sensor with Arduino UNO, Ultrasonic sensors and OLED display.
 
+For more details, please view youtube video: https://youtu.be/sEWw087KOj0
+
 Parts:
 - Arduino UNO
 - 3x HC-SR04 Ultrasonic sensors
