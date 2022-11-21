@@ -1,7 +1,10 @@
 # Arduino Parking Sensor
 Simple parking sensor with Arduino UNO, Ultrasonic sensors and OLED display.
 
-For more details, please view youtube video: https://youtu.be/sEWw087KOj0
+For more details, please view youtube video
+
+- Video overview: https://youtu.be/sEWw087KOj0
+- Full tutorial video: https://youtu.be/gg08H-6Z1Lo
 
 WOKWI online emulator: https://wokwi.com/projects/348388602879672914
 
