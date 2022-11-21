@@ -39,3 +39,6 @@ Some random photos:
 ![photo_03](https://user-images.githubusercontent.com/117754156/202244709-036adbcc-28c0-458b-a8ae-48e61b059f32.jpg)
 ![photo_04](https://user-images.githubusercontent.com/117754156/202244720-7a1dad65-619e-446b-99f8-37910240a0f5.jpg)
 ![photo_05](https://user-images.githubusercontent.com/117754156/202244734-58ab8eb3-5c9c-4ae4-9987-0d65885905f4.jpg)
+
+
+![THUMB_diy_parking_sensor_arduino_full_tutorial4](https://user-images.githubusercontent.com/117754156/203079080-dad706d2-3343-4c88-a855-e8119168453b.jpg)
